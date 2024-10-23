@@ -1,9 +1,13 @@
 import './module.input.css'
 
-function Input(){
+interface InputProps{
+    placeholder?: string;
+}
+
+function Input({placeholder}: InputProps){
     return (
         <>
-        <input type='text' placeholder='Pesquisar no blog'></input>
+        <input type='text' placeholder={placeholder}></input>
         </>
     )
 }

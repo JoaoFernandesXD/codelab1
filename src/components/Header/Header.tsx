@@ -12,7 +12,7 @@ function Header() {
                 <span>Code</span>
                 <span>Lab</span>
             </h1>
-            <Input></Input>
+            <Input placeholder='Pesquisar no blog'></Input>
         </div>
       </header>
   )
