@@ -1,8 +1,8 @@
 main {
     width: 100%;
     max-width: 1216px;
-    height: auto;
-    background-color: red;
-    margin: 0 auto;
-    margin-top: 80px;
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    margin: 40px auto 0;
 }

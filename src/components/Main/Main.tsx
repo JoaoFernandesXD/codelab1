@@ -2,11 +2,15 @@
 import './module.main.css';
 
 /* import components */
-import Card from '../Card/card';
+import Card from '../Card/Card';
 
 function Main(){
     return(
         <main>
+            <Card></Card>
+            <Card></Card>
+            <Card></Card>
+            <Card></Card>
             <Card></Card>
         </main>
     )
