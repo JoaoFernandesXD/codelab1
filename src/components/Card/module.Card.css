@@ -5,8 +5,6 @@
     padding: 40px;
     border: 2px solid var(--dark-40);
     background-color: var(--dark-20);
-    cursor: pointer;
-    
 }
 .card:hover {
     border: 2px solid var(--brand-color);
