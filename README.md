@@ -6,7 +6,7 @@
 
 # Descrição do Projeto
 
-image](https://github.com/user-attachments/assets/1eeb0761-6376-4cc2-83e7-96dc49466beb)
+![image](https://github.com/user-attachments/assets/1eeb0761-6376-4cc2-83e7-96dc49466beb)
 
 # Neste projeto, utilizei **React** para criar uma interface simples e organizada. 
 # Algumas das principais funcionalidades que implementei incluem:
