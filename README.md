@@ -1,7 +1,7 @@
 # Meu Primeiro Projeto em React
 
-# Este é o meu primeiro projeto usando o framework **React** e **TypeScript**. 
-# Antes, eu desenvolvia meus projetos de front-end usando **JavaScript**, **HTML**, e **CSS** puro. 
+## Este é o meu primeiro projeto usando o framework **React** e **TypeScript**. 
+## Antes, eu desenvolvia meus projetos de front-end usando **JavaScript**, **HTML**, e **CSS** puro. 
 # Com esse projeto, tive meu primeiro contato prático com o **React** e as funcionalidades do **TypeScript**.
 
 # Descrição do Projeto
