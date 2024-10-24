@@ -4,6 +4,7 @@ Este é meu primeiro projeto usando **React** com **TypeScript**. Antes, eu dese
 
 ## 🛠️ Tecnologias Utilizadas
 
+- Vite
 - React (com TypeScript)
 - JavaScript ES6
 - HTML e CSS
