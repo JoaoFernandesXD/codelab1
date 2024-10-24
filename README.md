@@ -1,48 +1,30 @@
-# Meu Primeiro Projeto em React
+# Meu Primeiro Projeto em React 🚀
 
-## Este é o meu primeiro projeto usando o framework **React** e **TypeScript**. 
-## Antes, eu desenvolvia meus projetos de front-end usando **JavaScript**, **HTML**, e **CSS** puro. 
-# Com esse projeto, tive meu primeiro contato prático com o **React** e as funcionalidades do **TypeScript**.
+Este é meu primeiro projeto usando **React** com **TypeScript**. Antes, eu desenvolvia com **JavaScript**, **HTML**, e **CSS** puro. Neste projeto, explorei a tipagem com TypeScript e usei o método **map()** para percorrer e renderizar dados dinamicamente.
 
-# Descrição do Projeto
+## 🛠️ Tecnologias Utilizadas
 
-![image](https://github.com/user-attachments/assets/1eeb0761-6376-4cc2-83e7-96dc49466beb)
+- React (com TypeScript)
+- JavaScript ES6
+- HTML e CSS
 
-# Neste projeto, utilizei **React** para criar uma interface simples e organizada. 
-# Algumas das principais funcionalidades que implementei incluem:
+## 🚀 Instalação
 
-# - Uso de **TypeScript** para definir interfaces, garantindo maior segurança e clareza no código.
-# - Uso do método **map()** do **JavaScript** para percorrer e renderizar elementos dinamicamente.
-  
-# Este projeto me ajudou a entender melhor como o **React** organiza os componentes e a importância do **TypeScript** para tipagem e manutenção do código.
+Siga os passos abaixo para rodar o projeto localmente:
 
-# Tecnologias Utilizadas
+1. Clone o repositório:
 
-# - **React** (com **TypeScript**)
-# - **JavaScript** ES6
-# - **HTML** e **CSS**
+   ```bash
+   git clone [https://github.com/seu-usuario/nome-do-repositorio.git](https://github.com/JoaoFernandesXD/codelab1)
+2. Acesse a pasta do projeto:
+   
+   ```bash
+    cd codelab1
+3. Instale as dependências:
 
-# Instalação
+    ```bash
+      cd codelab1
+4. Inicie o projeto:
 
-# Para rodar o projeto na sua máquina, siga os passos abaixo:
-
-# 1. Clone o repositório:
-
-git clone https://github.com/seu-usuario/nome-do-repositorio.git
-
-# 2. Navegue até a pasta do projeto:
-
-cd nome-do-repositorio
-
-# 3. Instale as dependências:
-
-npm install
-
-# 4. Inicie o projeto:
-
-npm start
-
-
-
-
-
+   ```bash
+   npm start
